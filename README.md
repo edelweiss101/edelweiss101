@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-![Alright](https://cdn.7tv.app/emote/63e122bd4af186f390dbd362/4x.webp)
+![Hey](https://cdn.7tv.app/emote/6336d1a17ee504dc6f73c043/4x.webp) ![Alright](https://cdn.7tv.app/emote/63e122bd4af186f390dbd362/4x.webp)
 
 <!--
 **edelweiss101/edelweiss101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
